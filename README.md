@@ -32,10 +32,23 @@ From Alphabet Soup’s business team, a CSV file containing more than 34,000 org
 
 - Model function for automatic hyperparameter adjustment
 
+![Model Function](https://user-images.githubusercontent.com/102476861/183308432-9da10223-0028-4c34-a176-5558df765c93.png)
+
 - Keras Tuner Search
+
+![Keras Tuner Search](https://user-images.githubusercontent.com/102476861/183308431-9347759b-0e98-4d36-9578-068a7e8df68c.png)
 
 - Best Model and Evaluation
 
+![Best Model and Evaluation](https://user-images.githubusercontent.com/102476861/183308428-88f08ecb-787b-40e7-865f-c550271d7d97.png)
+
 - Best Model using Best Hyperparamaters
+
+![Best Model Using Best Hyperparameters](https://user-images.githubusercontent.com/102476861/183308429-87a1baf3-8121-49a0-bc0f-d882bda17a03.png)
+
+## Summary
+
+The best accuracy that we got for this Neural Network Optimization was 73.87% (Epoch 80). I would not recommend this type of machine learning method for this project since the accuracy didn't even crack the 75% goal. 
+
 
 
